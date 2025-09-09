@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/gh-banner.png" alt="Odyssey Theme Banner">
+  <img src="assets/gh-banner.png" alt="Kentaki's Domain">
 </p>
 
 <br/>
 <div align="center">
-  <a href="https://twitter.com/jaydanurwin">
-  <img src="assets/twitter-badge.svg" alt="Follow Jaydan Urwin on Twitter"/>
+  <a href="https://x.com/ken_taki39">
+  <img src="assets/twitter-badge.svg" alt="Follow ken on X"/>
 </a>
   <a href="https://sapling.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0">
     <img src="assets/sponsor-badge.svg" alt="Sponsor This Repo" />
